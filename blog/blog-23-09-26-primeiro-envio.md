@@ -2,7 +2,8 @@
 
 title: "Primeira Fase"
 authors: Allan Dantas
-data: 23-09-20226
+tags: [formacao-equipe]
+data: 23-09-2026
 
 ---
 
