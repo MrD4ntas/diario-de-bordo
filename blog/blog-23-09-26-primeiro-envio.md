@@ -1,9 +1,9 @@
 ---
----
-title: "<Nome da fase> — <data>"
-authors:
-tags: [formacao-equipe]
-date: 2027-03-10
+
+title: "Primeira Fase"
+authors: Allan Dantas
+data: 23-09-20226
+
 ---
 
 <!--
