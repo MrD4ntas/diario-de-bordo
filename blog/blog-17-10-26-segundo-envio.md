@@ -1,9 +1,9 @@
 ---
 
-title: "Primeira Fase"
+title: "Segunda Fase"
 authors: Allan Dantas
 tags: [formacao-equipe]
-date: 23-09-2026
+date: 17-10-2026
 
 ---
 
@@ -27,14 +27,14 @@ As perguntas completas de cada fase estão em
 docs/perguntas.md.
 -->
 
-## Descreva como está sendo o processo de organização da sua equipe até agora — papéis, expectativas, primeiras decisões.
+## Conte como tem sido o ritmo de trabalho da sua equipe nesta fase de preparação para a primeira entrega.
 
-No momento está tudo um pouco bagunçado ainda. Na reunião do dia 15/09, estávamos dividindo sobre quem faria o quê e acabou que ficou tudo meio bagunçado. No entanto, estamos conseguindo nos desenvolver. Creio que o momento mais difícil é o começo mesmo, em que todo mundo está se adaptando com a matéria e tudo mais. No mais, a expectativa está condizente e as decisões estão sendo tomadas em conjunto.
+A equipe trabalhou bem, conseguimos dividir as sprints e as tarefas para todos e saímos muito bem. Houve algumas desavenças, como um colega nosso que trancou a matéria, mas, no mais, conseguimos organizar a entrega e receber nossas devidas críticas, e vamos seguir para melhorarmos o nosso projeto. No mais, acho que a nossa primeira entrega foi minimamente aceitável.
 
-## Que sensações ou pensamentos você tem tido em relação ao início desta disciplina e ao projeto que vocês vão desenvolver?
+## escreva uma situação recente de colaboração ou feedback, positiva ou difícil, que marcou sua semana.
 
-No começo, eu achei que a disciplina ia ser difícil, algo massante envolvendo codar e que ia desgastar muito, mas ela é bem conceitual e diferente do que eu esperava. Estamos aprendendo a usar o GitHub e como é trabalhar em equipe, como é desenvolver um projeto em software. No nosso projeto, estamos planejando fazer um glossário para ajudar os estudantes da UnB. É uma ideia legal. Estava meio receoso no começo de não conseguir elaborar o projeto, mas estou conseguindo acompanhar a matéria e desenvolver o projeto, e acredito que possa sair de apenas um projeto e ajudar pessoas de verdade mesmo.
+Bom, essa semana dividimos as sprints e vamos começar a organizar a parte de cada um para juntar depois. Acabei recebendo um feedback nas reuniões para melhorar a forma de comitar, que estava muito simples, então vou acabar buscando melhorar nesse quesito, mas recebi um feedback positivo também de que eu estou sendo bem participativo no meu grupo.
 
-## Que conhecimentos, ferramentas ou práticas você sente que já domina, e quais ainda são novidade para você neste momento?
+## Que responsabilidades técnicas você tem assumido, e como você tem lidado com elas?
 
-No momento eu sinto que não domino praticamente nada da matéria, só um pouco da programação mesmo em Python e em C. No momento está sendo novidade mexer com o GitHub, aprender a usar HTML e CSS, aprender os conceitos como Scrum, Framework, etc. Também estou aprendendo melhor a trabalhar em equipe e a gerenciar melhor o meu tempo. 
+No momento atual estou com a parte de frontend, então estou fazendo estudos e disponibilizando-os em forma de sprint para o grupo. Também, na parte atual, estou responsável pelos termos da trilha do calouro no nosso glossário. Vou organizar os termos e colocá-los em uma sprint para a nossa base, e eu também estou responsável pela documentação da estrategia de testes e de proteger a branch main.
